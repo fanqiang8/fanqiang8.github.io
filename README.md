@@ -1,4 +1,4 @@
-# 翻墙8 | 10月5日18.2M/S|免费V2ray节点/Clash节点/SSR节点/Singbox节点/Shadowrocket节点节点推荐，在线Clash机场梯子购买推荐  更新时间 2026-10-05 01:08:05
+# 翻墙8 | 10月13日21.3M/S|免费V2ray节点/Clash节点/Singbox节点/SSR节点/Shadowrocket节点节点推荐，在线Clash机场梯子购买推荐  更新时间 2026-10-13 09:52:07
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://fanqiang8.github.io" target="_blank">点击跳转</a>
 
 ## clash使用教程：
@@ -9,23 +9,23 @@
 
 ### 免费Clash节点订阅链接
 
-- https://fanqiang8.github.io/uploads/2026/10/0-20261005.yaml
-- https://fanqiang8.github.io/uploads/2026/10/1-20261005.yaml
-- https://fanqiang8.github.io/uploads/2026/10/2-20261005.yaml
-- https://fanqiang8.github.io/uploads/2026/10/3-20261005.yaml
-- https://fanqiang8.github.io/uploads/2026/10/4-20261005.yaml
+- https://fanqiang8.github.io/uploads/2026/10/0-20261013.yaml
+- https://fanqiang8.github.io/uploads/2026/10/1-20261013.yaml
+- https://fanqiang8.github.io/uploads/2026/10/2-20261013.yaml
+- https://fanqiang8.github.io/uploads/2026/10/3-20261013.yaml
+- https://fanqiang8.github.io/uploads/2026/10/4-20261013.yaml
 
 ### 免费V2ray节点订阅链接
 
-- https://fanqiang8.github.io/uploads/2026/10/0-20261005.txt
-- https://fanqiang8.github.io/uploads/2026/10/1-20261005.txt
-- https://fanqiang8.github.io/uploads/2026/10/2-20261005.txt
-- https://fanqiang8.github.io/uploads/2026/10/3-20261005.txt
-- https://fanqiang8.github.io/uploads/2026/10/4-20261005.txt
+- https://fanqiang8.github.io/uploads/2026/10/0-20261013.txt
+- https://fanqiang8.github.io/uploads/2026/10/1-20261013.txt
+- https://fanqiang8.github.io/uploads/2026/10/2-20261013.txt
+- https://fanqiang8.github.io/uploads/2026/10/3-20261013.txt
+- https://fanqiang8.github.io/uploads/2026/10/4-20261013.txt
 
 ### 免费Sing-box节点订阅链接
 
-- https://fanqiang8.github.io/uploads/2026/10/20261005.json
+- https://fanqiang8.github.io/uploads/2026/10/20261013.json
 
 ## 更多Clash节点订阅 ：
 
